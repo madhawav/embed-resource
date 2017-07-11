@@ -50,4 +50,4 @@ So, instead, I've used a simple C++ executable that does the same conversion, ba
 
 ## License
 
-Public Domain / [WTFPL](http://www.wtfpl.net/)
+Public Domain
